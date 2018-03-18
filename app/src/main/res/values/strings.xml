@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoFlimsyCards</string>
+    <string name="edit_user">Enter your username</string>
+    <string name="button_login">Log In</string>
+    <string name="edit_pw">Enter your password</string>
+    <string name="text_help">Please Sign-In to your account</string>
+    <string name="servicedesc">This service is used by the HCE</string>
+</resources>
