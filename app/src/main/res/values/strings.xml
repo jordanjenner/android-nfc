@@ -4,5 +4,13 @@
     <string name="button_login">Log In</string>
     <string name="edit_pw">Enter your password</string>
     <string name="text_help">Please Sign-In to your account</string>
+    <string name="aiddescription">NFCAID</string>
+    <string name="blankUser">You need to enter a username.</string>
+    <string name="blankUserPass">You need to enter a username and password.</string>
+    <string name="blankPass">You need to enter a password.</string>
+    <string name="invalidUserPass">You have entered an invalid Username/Password combination.</string>
+    <string name="userSignOut">Sign Out</string>
+    <string name="qrCodeDesc">A test QR code that conatins unused data.</string>
+    <string name="empty"></string>
     <string name="servicedesc">This service is used by the HCE</string>
 </resources>
