@@ -55,9 +55,11 @@ public class MainActivity extends AppCompatActivity {
         }
 
         /* A terrible form of authentication just for the prototype*/
-        else if (user.matches("johnsmith1") && pass.matches("password1") ||
-                 user.matches("joebloggs1" ) && pass.matches("123456") ||
-                 user.matches("sebhoag1") && pass.matches("qwerty1"))
+        else if (user.matches("jordan1") && pass.matches("password1") ||
+                 user.matches("andrius1" ) && pass.matches("password1") ||
+                 user.matches("abdul1" ) && pass.matches("password1") ||
+                 user.matches("lina1" ) && pass.matches("password1") ||
+                 user.matches("kaleem1") && pass.matches("password1"))
         {
             Intent intent = new Intent(this, DisplayUser.class);
             MainActivity.userId = user;
